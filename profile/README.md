@@ -1,6 +1,6 @@
 ## Fondify - Donation platform on Solana
 
-[![Get started](https://img.shields.io/static/v1?label=Become%20a%20donatee&message=Fondify.app&color=blue)](https://fondify.app/to/6VQrjDVzTowND3PAwL8tSg6jK9xhAZ55g9UK5QDJ7A6W)
+[![Get started](https://img.shields.io/static/v1?label=Become%20a%20donatee&message=Fondify.app&color=blue)](https://fondify.app)
 [![Donate solana](https://img.shields.io/static/v1?label=Support%20us&message=Donate%20%24SOL&color=blueviolet)](https://fondify.app/to/6VQrjDVzTowND3PAwL8tSg6jK9xhAZ55g9UK5QDJ7A6W)
 
 Our mission at Fondify is to build the best donation platform on the Solana blockchain. We're committed to making donations safe and easy for anyone to get or give help.
