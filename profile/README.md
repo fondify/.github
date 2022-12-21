@@ -6,6 +6,4 @@ Our mission at Fondify is to build the best donation platform on the Solana bloc
 
 To make Fondify accessible to everyone, we charge 0% platform fees for donation transactions. Our platform is fully decentralized and runs entirely on the Solana blockchain. We do not collect any personal data and provide censor-resistant tools for people all around the world.
 
-We have many ideas and plans going forward, and every sponsor will help with the motivation and the money needed to create this great software.
-
 We appreciate [your support](https://fondify.app/to/9qjvN4GZf78M2JsLUxXUNQWnDo96s12Zzzkzoo8cFpqw) ❤️.
